@@ -1,9 +1,9 @@
-<H3>Name:SARGURU K</H3>
-<H3>Register no.:212222230134</H3>
-<H3>Date:</H3>
-<H3>Experiment No. 2 </H3>
+<H3>ENTER YOUR NAME : SARGURU K</H3>
+<H3>ENTER YOUR REGISTER NO. 212222230134</H3>
+<H3>EX. NO.2</H3>
+<H3>DATE : </H3>
+<H1 ALIGN =CENTER> Implementation of Perceptron for Binary Classification</H1>
 
-## Implementation of Perceptron for Binary Classification
 ### AIM:
 To implement a perceptron for classification using Python<BR>
 
